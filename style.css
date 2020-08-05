@@ -1,3 +1,20 @@
 h1, h2 {
   font-family: Lato;
 }
+img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+p{
+ text-align: center;
+}
+h1{
+  text-align: center;
+}
+#img-caption{
+  font-style: italic;
+  margin-top: 0px;
+}
+
