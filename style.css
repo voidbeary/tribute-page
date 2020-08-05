@@ -1,5 +1,9 @@
+html{
+  background: linear-gradient(to bottom,  #7e4a35, #cab577, #838060);
+}
 h1, h2 {
   font-family: Lato;
+   text-align: center;
 }
 img{
   max-width: 100%;
@@ -10,11 +14,13 @@ img{
 p{
  text-align: center;
 }
-h1{
-  text-align: center;
-}
+
 #img-caption{
   font-style: italic;
   margin-top: 0px;
+  /* color: white; */
 }
+/* #img-div{
+ background-color: black; 
+} */
 
