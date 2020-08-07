@@ -1,26 +1,33 @@
-html{
-  background: linear-gradient(to bottom,  #7e4a35, #cab577, #838060);
+body{
+  background: linear-gradient(to bottom, #C0C0C0,  #8787e8);
+  color: black;
 }
 h1, h2 {
-  font-family: Lato;
    text-align: center;
 }
 img{
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: auto;
+  max-width: 50%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
 }
 p{
  text-align: center;
+
 }
 
 #img-caption{
   font-style: italic;
   margin-top: 0px;
-  /* color: white; */
 }
-/* #img-div{
- background-color: black; 
-} */
+ul{
+   text-align: center;
+   font-size: 22px;
+}
+
+main{
+  overflow: auto;
+}
+
+
 
